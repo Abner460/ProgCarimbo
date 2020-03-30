@@ -1,0 +1,7 @@
+C:\Users\abner\OneDrive\Documentos\Visual Studio 2017\Projects\ProgCarimbo\ProgCarimbo\bin\Debug\ProgCarimbo.exe.config
+C:\Users\abner\OneDrive\Documentos\Visual Studio 2017\Projects\ProgCarimbo\ProgCarimbo\bin\Debug\ProgCarimbo.exe
+C:\Users\abner\OneDrive\Documentos\Visual Studio 2017\Projects\ProgCarimbo\ProgCarimbo\bin\Debug\ProgCarimbo.pdb
+C:\Users\abner\OneDrive\Documentos\Visual Studio 2017\Projects\ProgCarimbo\ProgCarimbo\obj\Debug\ProgCarimbo.csprojAssemblyReference.cache
+C:\Users\abner\OneDrive\Documentos\Visual Studio 2017\Projects\ProgCarimbo\ProgCarimbo\obj\Debug\ProgCarimbo.csproj.CoreCompileInputs.cache
+C:\Users\abner\OneDrive\Documentos\Visual Studio 2017\Projects\ProgCarimbo\ProgCarimbo\obj\Debug\ProgCarimbo.exe
+C:\Users\abner\OneDrive\Documentos\Visual Studio 2017\Projects\ProgCarimbo\ProgCarimbo\obj\Debug\ProgCarimbo.pdb
