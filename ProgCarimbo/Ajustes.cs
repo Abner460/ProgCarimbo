@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace ProgCarimbo
 {
-    interface Interacao
+    interface Ajustes
     {
-        void carimbar();
         void carregar(string COR, int CARGA);
         void trocarCor(string COR);
         void trocarTexto(string TEXTO);

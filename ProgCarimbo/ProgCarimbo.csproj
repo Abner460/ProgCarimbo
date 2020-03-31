@@ -43,8 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Ajustes.cs" />
     <Compile Include="Carimbo.cs" />
     <Compile Include="interacao.cs" />
+    <Compile Include="Pincel.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

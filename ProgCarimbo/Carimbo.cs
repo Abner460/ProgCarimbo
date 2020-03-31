@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProgCarimbo
 {
-    class Carimbo : Interacao
+    class Carimbo : Interacao, Ajustes
     {
         private string cor;
         private string texto;
@@ -34,7 +34,7 @@ namespace ProgCarimbo
             set { carga = value; }
         }
 
-        public void usar()
+        public void carimbar()
         {
             if (Carga >= 1)
             {
@@ -42,7 +42,7 @@ namespace ProgCarimbo
                 {
                     if (!string.IsNullOrEmpty(Cor))
                     {
-                        Console.WriteLine("O texto " + Texto + " está na cor " + Cor);
+                        Console.WriteLine("( " + Texto + ") na cor " + Cor);
                         Carga--;
                     }
                     else
